@@ -1,0 +1,20 @@
+
+z
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "price".(§åï‚8ÂÇÙâˆ1
+u
+java:S1104"XMake bootCapacity a static final constant or non-public and provide accessors if needed.(¶‚…à8è¼×âˆ1
+s
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8è¼×âˆ1
+l
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8è¼×âˆ1
+r
+java:S1104"UMake rentPrice a static final constant or non-public and provide accessors if needed.(Ââá¡8½ËØâˆ1
+7
+java:S1220""Move this file to a named package.8é¼×âˆ1
+V
+java:S5993
+"9Change the visibility of this constructor to "protected".(äªš8¸Å¥ãˆ1
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ë¼×âˆ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÀËØâˆ1
